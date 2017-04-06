@@ -1,0 +1,2 @@
+npm i -g webpack-dev-server //for installing webpack-dev-server globally
+webpack-dev-server --inline --hot //running server
